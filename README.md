@@ -1,1 +1,2 @@
-# c24-project-v2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
